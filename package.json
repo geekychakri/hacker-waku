@@ -1,5 +1,8 @@
 {
   "name": "hacker-news",
+  "engines": {
+    "node": "18.x"
+  },
   "version": "0.0.0",
   "type": "module",
   "private": true,
